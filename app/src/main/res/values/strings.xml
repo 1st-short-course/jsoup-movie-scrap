@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">MovieScrapDemo</string>
+    <string name="hello">Hello Everyone</string>
+</resources>
